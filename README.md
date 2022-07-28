@@ -12,16 +12,21 @@ https://www.youtube.com/watch?v=USjZcfj8yxE
 ## Git command line cheat sheet
 
 Check git status
-`git status`
+
+```git status```
 
 To see differences with previous
-`git diff`
+
+```git diff```
 
 To add a file to the staging area
-`git add <filename>` 
+
+```git add <filename>```
 
 To stage a commit
-`git commit -m "meaningful message about changes"`
+
+```git commit -m "meaningful message about changes"```
 
 To push to remote repo
-`git push`
+
+```git push```

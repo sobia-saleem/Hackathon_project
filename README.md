@@ -1,17 +1,23 @@
 # Hackathon_project
 
-# Table of contents
+<!-- toc -->
+
+# Challenge
+[Totally Not MD Collaboration Week Challenges](https://github.com/TNMDCollaborationWeek/Challenges)
+
+## Theme 1 & 4: What is GitHub? + Elegant documentation
+
+What are some tips on using git?
+
+How are other National Statistical Organisations (NSO) using GitHub?
 
 
-[[line1
-line2]
-https://github.com/TNMDCollaborationWeek/Challenges)](https://github.com/TNMDCollaborationWeek/Challenges
 
+# Using Git
 ## Resources
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
 https://www.youtube.com/watch?v=USjZcfj8yxE
-
 
 ## Git command line cheat sheet
 

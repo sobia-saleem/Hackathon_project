@@ -32,7 +32,7 @@ To push to remote repo
 
 ## Statistics New Zealand (StatsNZ)
 
-Statistics NZ have 27 repositories on Github (albeit several empty ones). There appears to be three general themes to their repositories:
+Statistics NZ have 27 repositories on Github (albeit several empty ones). There are three general themes to their repositories:
 
 1.  Publish code which links to available resources on their main website. E.g. They have utilised Github to publish code which was used to generate their software data portal (see [StatsNz](https://www.stats.govt.nz/experimental/covid-19-data-portal)).
 2.  House code for functions they have developed to assist in their analysis or visualisation (usually in R).

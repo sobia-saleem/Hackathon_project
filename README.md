@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 https://www.youtube.com/watch?v=USjZcfj8yxE
 
+
 ## Git command line cheat sheet
 
 Check git status
@@ -49,3 +50,7 @@ In general, ONS based programmers and developers are encouraged to open source t
 > --- [Government Service Manual](https://www.gov.uk/service-manual/service-standard/point-12-make-new-source-code-open)
 
 An [unofficial best practice guide](https://github.com/best-practice-and-impact/ons-github-post) for using Github describes the benefits of open source code for the ONS, security considerations when publishing code in the open, and providing an appropriate license alongside your code so users know how they can use, modify or redistribute your work.
+
+### Use of git at DESTATIS (German Federal Statistical Office)
+
+Can't speak for internal use within DESTATIS, but doesn't look like they have any public GitHub repositories. There are a few GitHub repositories (eg. Datenguide https://github.com/datenguide/datenguide) for using DESTATIS data. 

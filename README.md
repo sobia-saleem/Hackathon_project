@@ -32,6 +32,7 @@ To push to remote repo
 
 ```git push```
 
+
 # Office for National Statistics (ONS)
 ## Git at the ONS
 Although there doesn't appear to be official usage/guidelines for using Git/Github at the ONS, an introduction to Git course can be found on their [learning hub](https://learninghub.ons.gov.uk/course/view.php?id=532). As of late 2020, ONS machines are also able to connect to GitHub, and Git forms the basis of several version control platforms used in the ONS such as the ONS Gitlab platform. 
@@ -54,3 +55,19 @@ An [unofficial best practice guide](https://github.com/best-practice-and-impact/
 ### Use of git at DESTATIS (German Federal Statistical Office)
 
 Can't speak for internal use within DESTATIS, but doesn't look like they have any public GitHub repositories. There are a few GitHub repositories (eg. Datenguide https://github.com/datenguide/datenguide) for using DESTATIS data. 
+
+### Statistics New Zealand (StatsNZ)
+https://github.com/StatisticsNZ
+
+#### How are statistical or ML research organisations using public GitHub repositories?
+* :coffee: create R pakckages for multiple purposes and for each project there are multiple contributors
+    - each repository is a package which contains: a series of R scripts/functions in a folder; toy datasets; a showcase bio etc...
+* :tea: store html files which are used in iframe on their website
+    - e.g. The iteractive figure (iframe) in https://www.stats.govt.nz/experimental/covid-19-data-portal used the html files in [data_portal](https://github.com/StatisticsNZ/data_portal)
+    
+#### Are there guidelines for how GitHub is used by these organisations?
+Pretty much everything StatsNZ posted on GitHub are covered by:
+* :crown: Crown Copyright(c), Statistics New Zealand on behalf of the New Zealand Government
+In addition, if those are R.packages, they are also under:
+* :school: MIT License
+* :rocket: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)

@@ -30,3 +30,15 @@ To stage a commit
 To push to remote repo
 
 ```git push```
+
+### Statistics New Zealand (StatsNZ)
+https://github.com/StatisticsNZ
+
+How are statistical or ML research organisations using public GitHub repositories?
+- create R pakckages for multiple purposes and for each project there are multiple contributors
+    -each erepository is a package which contains: a series of R scripts/functions in a folder; toy datasets; a showcase bio etc...
+
+Are there guidelines for how GitHub is used by these organisations?
+- Covered by Crown Copyright(c), Statistics New Zealand on behalf of the New Zealand Government
+- Under MIT License
+- Under Creative Commons Attribution 4.0 International License

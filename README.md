@@ -31,31 +31,30 @@
 # Using Git
 
 ## Resources
-https://www.youtube.com/watch?v=RGOj5yH7evk
 
-https://www.youtube.com/watch?v=USjZcfj8yxE
+<https://www.youtube.com/watch?v=RGOj5yH7evk>
+
+<https://www.youtube.com/watch?v=USjZcfj8yxE>
 
 ## Git command line cheat sheet
 
 Check git status
 
-```git status```
+`git status`
 
 To see differences with previous
 
-```git diff```
+`git diff`
 
 To add a file to the staging area
 
-```git add <filename>```
+`git add <filename>`
 
 To stage a commit
 
-```git commit -m "meaningful message about changes"```
+`git commit -m "meaningful message about changes"`
 
 To push to remote repo
-
-```git push```
 
 
 # Office for National Statistics (ONS)
@@ -87,6 +86,13 @@ Can't speak for internal use within DESTATIS, but doesn't look like they have an
 # Statistics New Zealand (StatsNZ)
 https://github.com/StatisticsNZ
 
+Statistics NZ have 27 repositories on Github (albeit several empty ones). There are three general themes to their repositories:
+
+1.  Publish code which links to available resources on their main website. E.g. They have utilised Github to publish code which was used to generate their software data portal (see [StatsNz](https://www.stats.govt.nz/experimental/covid-19-data-portal)).
+2.  House code for functions they have developed to assist in their analysis or visualisation (usually in R).
+3.  Share code they have used for data analysis on Statistics NZ data sets. In this case they only upload data if there is agreement from stakeholders. Otherwise they just include the methods and flag in the 'ReadMe' file that the data is partially available or unavailable.
+
+
 ## How are statistical or ML research organisations using public GitHub repositories?
 * :coffee: create R pakckages for multiple purposes and for each project there are multiple contributors
     - each repository is a package which contains: a series of R scripts/functions in a folder; toy datasets; a showcase bio etc...
@@ -99,3 +105,4 @@ Pretty much everything StatsNZ posted on GitHub are covered by:
 In addition, if those are R.packages, they are also under:
 * :school: MIT License
 * :rocket: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+

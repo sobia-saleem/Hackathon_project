@@ -114,3 +114,25 @@ In addition, if those are R.packages, they are also under:
 * :school: MIT License
 * :rocket: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
+
+## UN BigData
+To assist NSOs in taking full advantage of the big data wave, the United Nations Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD) developed a cloud-service ecosystem (the United Nations Global Platform) in 2017, enabling international collaboration in data innovation. 
+
+### Services
+The [UNGP services](https://code.officialstatistics.org/unglobalplatform?sort=name_desc) available can be sorted into two buckets: Methods Services and Developer Services. 
+
+Methods Service allows members of the platform to find, use and publish methods and algorithms in the cloud. It is a library of trusted statistical methods and algorithms, allowing (through the cloud native infrastructure and APIs) members of any international organisation to share and implement the same algorithms. 
+
+Developer Service provides an environment for code developers to explore data, develop analytics and build applications securely. It provides Jupyterhub notebooks and GitLab workspaces over the web. It supports R, Python, Julia and more, and offers scalable ingestion of big data through parallel computing.
+
+#### Regional Hubs for Big Data
+There are [four physical hubs](https://unstats.un.org/bigdata/regional-hubs.cshtml) located in China, Rwanda, Brazil and the United Arab Emirates. These hubs have a number of goals including:
+
+* :globe_with_meridians: Strengthening ties and promoting cooperation between producers of official statistics in the Region
+
+* :raising_hand: Training and fostering the interest of young statisticians on the use of Big Data in Official Statistics
+
+* :book: Supporting research on the use of Big Data and Data Science
+Broadening the thematic scope of research on the use of Big Data in Official Statistics to gain experience in handling and processing this type of data; improving the accuracy and robustness of the results; developing protocols for incorporation of new data sources into the portfolio of Statistics Institutes in the Region.
+
+* :airplane: Organizing and hosting seminars and conferences.

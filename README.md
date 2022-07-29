@@ -103,7 +103,7 @@ Statistics NZ have 27 repositories on Github (albeit several empty ones). There 
 ### Example-Vowpal Wabbit
 It is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 
-Their github page provides instructions for installing with a package manager, dependencies, building and tutorials. For example, you can find instructions for installing the package that builds Vowpal Wabbit locally for explicit use within python. There are also some examples of R code demonstarting the use of the package.
+Their github page (https://github.com/VowpalWabbit/vowpal_wabbit) provides instructions for installing with a package manager, dependencies, building and tutorials. For example, you can find instructions for installing the package that builds Vowpal Wabbit locally for explicit use within python. There are also some examples of R code demonstarting the use of the package.
 
 ## UN BigData
 To assist NSOs in taking full advantage of the big data wave, the United Nations Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD) developed a cloud-service ecosystem (the United Nations Global Platform) in 2017, enabling international collaboration in data innovation. 

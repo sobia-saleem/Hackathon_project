@@ -105,16 +105,6 @@ It is a machine learning system which pushes the frontier of machine learning wi
 
 Their github page provides instructions for installing with a package manager, dependencies, building and tutorials. For example, you can find instructions for installing the package that builds Vowpal Wabbit locally for explicit use within python. There are also some examples of R code demonstarting the use of the package.
 
-    
-    
-# Are there guidelines for how GitHub is used by these organisations?
-Pretty much everything StatsNZ posted on GitHub are covered by:
-* :crown: Crown Copyright(c), Statistics New Zealand on behalf of the New Zealand Government
-In addition, if those are R.packages, they are also under:
-* :school: MIT License
-* :rocket: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
-
-
 ## UN BigData
 To assist NSOs in taking full advantage of the big data wave, the United Nations Committee of Experts on Big Data and Data Science for Official Statistics (UN-CEBD) developed a cloud-service ecosystem (the United Nations Global Platform) in 2017, enabling international collaboration in data innovation. 
 
@@ -136,3 +126,13 @@ There are [four physical hubs](https://unstats.un.org/bigdata/regional-hubs.csht
 Broadening the thematic scope of research on the use of Big Data in Official Statistics to gain experience in handling and processing this type of data; improving the accuracy and robustness of the results; developing protocols for incorporation of new data sources into the portfolio of Statistics Institutes in the Region.
 
 * :airplane: Organizing and hosting seminars and conferences.
+    
+    
+# Are there guidelines for how GitHub is used by these organisations?
+Pretty much everything StatsNZ posted on GitHub are covered by:
+* :crown: Crown Copyright(c), Statistics New Zealand on behalf of the New Zealand Government
+In addition, if those are R.packages, they are also under:
+* :school: MIT License
+* :rocket: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+
